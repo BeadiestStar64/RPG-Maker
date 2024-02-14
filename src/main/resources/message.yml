@@ -1,0 +1,10 @@
+# +==========================+
+# |      Global Setting      |
+# +==========================+
+UseOfLanguageFiles: true
+Language: en_US
+
+# +==========================+
+# |    Custom Translation    |
+# +==========================+
+PluginEnableMessage: ""
